@@ -24,7 +24,8 @@ toast
 
 ## Screenshots
 
-![App Screenshot](./image/Screenshot.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/99542983/232979293-1545a111-e87b-4cc5-b602-aa4ea81039c6.png)
+![Uploading Screenshot (42).png…]()
 
 ## Run Locally
 
@@ -66,6 +67,9 @@ VS code , GitHub, Mongo DB, Render, Postman
 
 - GitHub: [@Aman9723](https://github.com/Aman9723)
 
+👤 **Rajan Kumar**
+
+- GitHub: [@raobaba](https://github.com/raobaba)
 👤 **Kirti kumari**
 
 - GitHub: [@kriti4666](https://github.com/@kriti4666)
@@ -73,10 +77,6 @@ VS code , GitHub, Mongo DB, Render, Postman
 👤 **Anukriti Nawani**
 
 - GitHub: [@Anukriti-Nawani](https://github.com/Anukriti-Nawani)
-
-👤 **Rajan Kumar**
-
-- GitHub: [@raobaba](https://github.com/raobaba)
 
 👤 **Priyanka Phulmante**
 
